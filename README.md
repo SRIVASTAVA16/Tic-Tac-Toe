@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+Developed a command-line based Tic-Tac-Toe game in C++ where the computer uses the Minimax algorithm to make optimal decisions. The AI simulates all possible moves using a recursive decision tree and always plays the best possible move, making it unbeatable. This project demonstrates a strong understanding of adversarial AI logic, decision trees, and search-based algorithms. It reflects how AI models reason, evaluate outcomes, and make strategic choices—core concepts relevant to the development of generative or decision-based AI systems.
